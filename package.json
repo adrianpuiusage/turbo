@@ -1,0 +1,23 @@
+{
+  "name": "turbo",
+  "version": "1.0.0",
+  "description": "magiiiiiiiiiic",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adrianpuiusage/turbo.git"
+  },
+  "keywords": [
+    "test",
+    "me"
+  ],
+  "author": "Syforce",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/adrianpuiusage/turbo/issues"
+  },
+  "homepage": "https://github.com/adrianpuiusage/turbo#readme"
+}
